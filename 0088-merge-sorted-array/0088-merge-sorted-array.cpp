@@ -11,7 +11,7 @@ public:
         sort(nums1.begin(), nums1.end());
 
 
-        
+   
        //optimal soln 1: works if the 0s are considered T.C.=O(2(nlogn)+ n)
        /*
         int left = m - 1;
@@ -29,6 +29,8 @@ public:
         sort(nums1.begin(), nums1.end());
         sort(nums2.begin(), nums2.end());
         */
+
+        // gap method is also one of the optimal solution
         
     }
 };
