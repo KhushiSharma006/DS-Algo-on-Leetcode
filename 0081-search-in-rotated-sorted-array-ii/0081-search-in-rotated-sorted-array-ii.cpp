@@ -11,8 +11,7 @@ public:
                 return true;
             }
 
-            // Edge case: all three are equal, we cannot determine which side is
-            // sorted
+            // Edge case: all three are equal, we cannot determine which side is sorted
             if (nums[low] == nums[mid] && nums[mid] == nums[high]) {
                 low++;
                 high--;
