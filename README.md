@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0704-binary-search) |
 ## Hash Table
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0493-reverse-pairs](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
