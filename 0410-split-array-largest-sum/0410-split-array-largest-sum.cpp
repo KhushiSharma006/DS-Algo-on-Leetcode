@@ -23,7 +23,7 @@ public:
         int high = accumulate(nums.begin(), nums.end(), 0);
 
         while(low<=high){
-            int mid = low+(high-low)/2;
+            int mid = (high+low)>>1;
             int partitions = countPartitions(nums, mid);
             if(partitions > k){ 
                 // more than k partitions -> increase sum
@@ -32,7 +32,7 @@ public:
                 high= mid-1;
             }   
         }
-        
+
         return low;
         
     }
