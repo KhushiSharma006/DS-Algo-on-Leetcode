@@ -1,56 +1,67 @@
 class Solution {
 public:
+    ListNode* reverseLL(ListNode* head) {
+        if (head == NULL || head->next == NULL) {
+            return head;
+        }
+        ListNode* newHead = reverseLL(head->next);
+
+        ListNode* front = head->next;
+        front->next = head;
+        head->next = NULL;
+        return newHead;
+    }
+  /* reverse the second half then campare*/
     bool isPalindrome(ListNode* head) {
 
-        stack<int>st;
+        if (head == NULL || head->next == NULL)
+            return true;
 
-        ListNode* temp = head;
-        while(temp != NULL){
-            st.push(temp->val);
-            temp = temp->next;
+        ListNode* slow = head;
+        ListNode* fast = head;
+
+        while (fast->next != NULL && fast->next->next != NULL) {
+            slow = slow->next;
+            fast = fast->next->next;
         }
 
-        temp =head;
+        slow->next = reverseLL(slow->next);
 
-        while(temp != NULL){
-            if(temp->val != st.top()) return false;
+        ListNode* first = head;
+        ListNode* second = slow->next;
 
-            temp = temp->next;
-            st.pop();
+        while (second != NULL) {
+            if (first->val != second->val) {
+                slow->next = reverseLL(slow->next);
+                return false;
+            }
+            first = first->next;
+            second = second->next;
         }
+
+        slow->next = reverseLL(slow->next);
+
         return true;
-
-        // if (head == nullptr || head->next == nullptr)
-        //     return true;
-        // ListNode *slow = head, *fast = head;
-
-        // while (fast->next && fast->next->next) {
-        //     slow = slow->next;
-        //     fast = fast->next->next;
-        // }
-
-        // ListNode *prev = nullptr;
-        // ListNode *curr = slow->next;
-
-        // while (curr) {
-        //     ListNode *front = curr->next;
-        //     curr->next = prev;
-        //     prev = curr;
-        //     curr = front;
-        // }
+    
 
 
-        // ListNode *first = head;
-        // ListNode *second = prev;
 
-        // while (second) {
-        //     if (first->val != second->val)
-        //         return false;
+    /* stack<int>st;
+     ListNode* temp = head;
+     while(temp != NULL){
+         st.push(temp->val);
+         temp = temp->next;
+     }
 
-        //     first = first->next;
-        //     second = second->next;
-        // }
+     temp =head;
 
-        // return true;
-    }
+     while(temp != NULL){
+         if(temp->val != st.top()) return false;
+
+         temp = temp->next;
+         st.pop();
+     }
+     return true;
+   */
+}
 };
