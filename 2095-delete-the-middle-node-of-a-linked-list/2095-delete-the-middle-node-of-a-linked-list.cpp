@@ -14,6 +14,7 @@ public:
 
         if(head == NULL || head->next == NULL){
             //  delete(head);
+            // return head;  or
             return NULL;
         }
 
