@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0367-valid-perfect-square) |
@@ -187,5 +188,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
