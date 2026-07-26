@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0229-majority-element-ii) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
