@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0056-merge-intervals) |
@@ -202,5 +203,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
