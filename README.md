@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0138-copy-list-with-random-pointer) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0050-powx-n) |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0090-subsets-ii) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
