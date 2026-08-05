@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0131-palindrome-partitioning](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Sorting
@@ -214,10 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0131-palindrome-partitioning) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0013-roman-to-integer) |
+| [0131-palindrome-partitioning](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Algorithm X
 |  |
 | ------- |
