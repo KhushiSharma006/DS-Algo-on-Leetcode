@@ -32,7 +32,7 @@ public:
         }
 
         // trimming the zeroes at the back
-        while(!ans.empty() && ans.back() == '0' && ans.size()>0){
+        while(ans.size()>0 && ans.back() == '0' ){
             ans.pop_back();
         }
 
