@@ -282,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
