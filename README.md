@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0118-pascals-triangle) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -292,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0584-find-customer-referee](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0620-not-boring-movies) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
