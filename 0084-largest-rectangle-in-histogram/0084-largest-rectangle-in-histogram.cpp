@@ -1,5 +1,7 @@
 class Solution {
 public:
+
+    // TC -> O(5N),  SC -> O(2N)
     vector<int> findNSE(vector<int>& nums) {
         int n = nums.size();
 
@@ -36,7 +38,6 @@ public:
 
         return ans;
     }
-
 
 
     int largestRectangleArea(vector<int>& heights) {
