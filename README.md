@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0118-pascals-triangle) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0085-maximal-rectangle) |
 ## Math
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -284,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0907-sum-of-subarray-minimums) |
