@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Union-Find
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0242-valid-anagram](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0402-remove-k-digits) |
 ## Algorithm X
 |  |
