@@ -12,18 +12,20 @@ class Solution {
 public:
 
     ListNode* findNthNode(ListNode* head, int k){
-        k =k-1;
+        k = k-1;
         while(k>0){
             head = head->next;
             k--;
         }
         return head;
-    }
 
+    }
+    
     ListNode* rotateRight(ListNode* head, int k) {
-        if(head == NULL || k==0) return head;
-        ListNode* tail =head;
-        int len = 1;
+        if(head == NULL || k == 0 ) return head;
+
+        ListNode* tail = head;
+        int len =1;
 
         while(tail->next != NULL){
             tail = tail->next;
@@ -31,14 +33,13 @@ public:
         }
 
         if(k%len == 0) return head;
-
-        k = k%len;
-
+        k  = k%len;
+        
         tail->next = head;
         ListNode* newLastNode = findNthNode(head, len-k);
         head = newLastNode->next;
-        newLastNode->next= NULL;
-
+        newLastNode->next = NULL;
+        
         return head;
         
     }
