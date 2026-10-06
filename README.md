@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1248-count-number-of-nice-subarrays](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1470-shuffle-the-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1248-count-number-of-nice-subarrays](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Union-Find
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0367-valid-perfect-square) |
+| [1248-count-number-of-nice-subarrays](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Simulation
 |  |
 | ------- |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Dynamic Programming
 |  |
@@ -356,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Heap (Priority Queue)
