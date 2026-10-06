@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0930-binary-subarrays-with-sum](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Union-Find
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Dynamic Programming
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
