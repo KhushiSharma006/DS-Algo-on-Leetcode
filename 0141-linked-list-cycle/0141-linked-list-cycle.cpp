@@ -9,19 +9,19 @@
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
+        if(head == NULL || head->next == NULL) return false;
 
-        // Optimal: Tortoise and Hare Algorithm (Floyd’s Cycle Detection)
-        ListNode* slow =head;
-        ListNode* fast = head; 
+        ListNode* slow = head;
+        ListNode* fast = head;
 
-        while(fast != NULL && fast->next != NULL)   {
+        while(fast->next != NULL && fast->next->next != NULL ){
             slow = slow->next;
             fast = fast->next->next;
 
             if(slow == fast){
                 return true;
             }
-        }  
-        return false; 
+        }
+        return false;
     }
 };
