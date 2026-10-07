@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0367-valid-perfect-square) |
+| [0670-maximum-swap](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0670-maximum-swap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Simulation
 |  |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0670-maximum-swap](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0670-maximum-swap) |
 ## Linked List
 |  |
 | ------- |
