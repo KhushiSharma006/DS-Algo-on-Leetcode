@@ -383,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0146-lru-cache) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
