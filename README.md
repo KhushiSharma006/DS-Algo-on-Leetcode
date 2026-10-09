@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0078-subsets) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0455-assign-cookies) |
