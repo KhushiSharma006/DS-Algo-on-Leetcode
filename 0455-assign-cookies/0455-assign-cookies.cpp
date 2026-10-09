@@ -1,6 +1,8 @@
 class Solution {
 public:
     int findContentChildren(vector<int>& g, vector<int>& s) {
+
+        //T.C. = O(NlogN + MlogM + m), S.C.= O(1)
         
         int n = g.size();
         int m = s.size();
