@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0493-reverse-pairs) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0907-sum-of-subarray-minimums](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Sorting
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0455-assign-cookies) |
 ## Counting
 |  |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0455-assign-cookies) |
 | [0670-maximum-swap](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0670-maximum-swap) |
 | [0860-lemonade-change](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0860-lemonade-change) |
