@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1929-concatenation-of-array](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1929-concatenation-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -418,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0455-assign-cookies) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
