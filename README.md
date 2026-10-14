@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0367-valid-perfect-square) |
 | [0670-maximum-swap](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0670-maximum-swap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0670-maximum-swap) |
 | [0860-lemonade-change](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0860-lemonade-change) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Linked List
 |  |
