@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2540-minimum-common-value) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2540-minimum-common-value](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2540-minimum-common-value) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Union-Find
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0455-assign-cookies) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
