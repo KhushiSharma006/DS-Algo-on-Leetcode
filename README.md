@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Sorting
 |  |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0455-assign-cookies) |
 | [0670-maximum-swap](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0860-lemonade-change) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0901-online-stock-span) |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0856-score-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Algorithm X
@@ -378,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0856-score-of-parentheses) |
 ## Monotonic Stack
 |  |
