@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1929-concatenation-of-array](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1929-concatenation-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2540-minimum-common-value](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2540-minimum-common-value) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0455-assign-cookies) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2540-minimum-common-value](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
@@ -255,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0455-assign-cookies) |
 | [0670-maximum-swap](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0670-maximum-swap) |
 | [0860-lemonade-change](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0860-lemonade-change) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -414,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0239-sliding-window-maximum) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Monotonic Queue
 |  |
 | ------- |
