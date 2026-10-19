@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1929-concatenation-of-array](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2540-minimum-common-value](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2540-minimum-common-value) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0455-assign-cookies) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
