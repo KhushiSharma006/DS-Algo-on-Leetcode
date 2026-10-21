@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0856-score-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Algorithm X
 |  |
 | ------- |
