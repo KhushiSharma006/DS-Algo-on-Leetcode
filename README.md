@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1470-shuffle-the-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Matrix
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0085-maximal-rectangle) |
+| [1254-number-of-closed-islands](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Math
 |  |
 | ------- |
@@ -502,4 +505,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1254-number-of-closed-islands](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
