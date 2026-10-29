@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Counting
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2540-minimum-common-value](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0860-lemonade-change) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Linked List
