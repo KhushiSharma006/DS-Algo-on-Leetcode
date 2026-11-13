@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0367-valid-perfect-square) |
 | [0670-maximum-swap](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/0670-maximum-swap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/KhushiSharma006/DS-Algo-on-Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
